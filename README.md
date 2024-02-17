@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+<h1 style="color:red">Hello Work!</h1>
+[![codewars](https://www.codewars.com/users/WhiteRomka/badges/large)](https://www.codewars.com/users/WhiteRomka)
+
+
 <!--
 **whiteromka/whiteromka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
