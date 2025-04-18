@@ -11,9 +11,6 @@
   <li> C# Unity</li>
   <li> Могу подизайнить </li>
 </ul>
-Я на codeWars:
-
-[![codewars](https://www.codewars.com/users/WhiteRomka/badges/small)](https://www.codewars.com/users/WhiteRomka) 
 
 
 <!--
